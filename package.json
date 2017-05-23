@@ -1,6 +1,6 @@
 {
   "name": "evstation-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript API wrapper for locating electric vehicle charging stations.",
   "main": "index.js",
   "scripts": {
