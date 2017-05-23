@@ -1,0 +1,27 @@
+{
+  "name": "evstation-js",
+  "version": "1.0.0",
+  "description": "JavaScript API wrapper for locating electric vehicle charging stations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnathanmiller/EVStation-JS.git"
+  },
+  "keywords": [
+    "api",
+    "wrapper"
+  ],
+  "author": "Johnathan Miller <hello@johnathanmiller.com> (https://johnathanmiller.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnathanmiller/EVStation-JS/issues"
+  },
+  "homepage": "https://github.com/johnathanmiller/EVStation-JS#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  }
+}
